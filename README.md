@@ -6,4 +6,5 @@ Learning the way Github works
 
 watch turtorial on YouTube
 
-1. Adding my first commit
+1. Adding my first commit.
+2. Adding my second commit using Vscode.
